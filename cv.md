@@ -63,8 +63,8 @@ function getPlanetName(id){
 ## Education
 
 * Plekhanov Russian University of Economics (International management)
-* FreeCodeCamp Responsive Web Design https://www.freecodecamp.org/certification/mrks77/responsive-web-design
-* <https://learn.javascript.ru/> (in progress)
+* <https://www.udemy.com/course/webdeveloper/>
+* <https://learn.javascript.ru> (in progress)
 
 ## Languages
 * Russian - native
